@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"acf0296d49daa573","x":-320,"y":-340,"width":160,"height":60,"type":"text","text":"POST 01"},
+		{"id":"d90f527712034c2e","x":-320,"y":-180,"width":160,"height":60,"type":"text","text":"POST 03"},
+		{"id":"3ed81973993eeb4d","x":-320,"y":-260,"width":160,"height":60,"type":"text","text":"POST 02"},
+		{"id":"a4fa04fdc9102749","x":-320,"y":-100,"width":160,"height":60,"type":"text","text":"POST 04"},
+		{"id":"b6fdef6983894d8c","x":-320,"y":-20,"width":160,"height":60,"type":"text","text":"POST 05"},
+		{"id":"eb4f15a6b35ac19e","x":-20,"y":-220,"width":200,"height":140,"type":"text","text":"GAIN POST SOURCE FILE FOR ALL POSTs"}
+	],
+	"edges":[
+		{"id":"07489cf6f0853bb0","fromNode":"acf0296d49daa573","fromSide":"right","toNode":"eb4f15a6b35ac19e","toSide":"left"},
+		{"id":"d6dfde0da6c68607","fromNode":"3ed81973993eeb4d","fromSide":"right","toNode":"eb4f15a6b35ac19e","toSide":"left"},
+		{"id":"e25ecd6a5835495d","fromNode":"d90f527712034c2e","fromSide":"right","toNode":"eb4f15a6b35ac19e","toSide":"left"},
+		{"id":"3aad27fae717bd0e","fromNode":"a4fa04fdc9102749","fromSide":"right","toNode":"eb4f15a6b35ac19e","toSide":"left"},
+		{"id":"870f0c56568b5fde","fromNode":"b6fdef6983894d8c","fromSide":"right","toNode":"eb4f15a6b35ac19e","toSide":"left"}
+	]
+}
